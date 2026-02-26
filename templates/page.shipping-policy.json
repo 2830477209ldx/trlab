@@ -1,0 +1,83 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "slideshow_zQcEwa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_iUmi3G": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/difference-02.jpg",
+            "image_mobile": "shopify://shop_images/difference-02.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_iUmi3G"
+      ],
+      "disabled": true,
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_3JEYri": {
+      "type": "rich-text",
+      "blocks": {
+        "text_bmTUGq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h3>Order Processing Time</h3><p>1–3 business days</p><h3>Estimated Shipping Time</h3><p><strong>• United States</strong><br/>8-21 calendar days</p><p><strong>• Canada</strong><br/>10-21 calendar days</p><p><strong>• United Kingdom, Germany, Spain</strong><br/>7-14 calendar days</p><p><strong>• France</strong><br/>8-14 calendar days</p><p><strong>• Italy</strong><br/>10-14 calendar days</p><p><strong>• Japan</strong><br/>5-14 calendar days</p><p><em>*We partner with trusted local carriers in each country to ensure reliable delivery. For example, orders in the United States are typically handled by USPS or similar providers.<br/>Please note that delivery times may be extended during holidays or due to severe weather conditions.<br/>We truly appreciate your patience and understanding.</em></p><h3>Service Markets</h3><p><strong>• United States</strong><br/>Delivery Area: Covers the entire continental US, with restrictions on ZIP codes (first three digits): 090-099, 340, 962-966, 006-009, 967-969, 995-999.<br/>However, we do not accept APO/FPO addresses, Alaska, Hawaii, and other remote areas, or overseas addresses such as Puerto Rico and Guam.</p><p><strong>• Canada</strong><br/>Delivery Area: Covers the entire Canada mainland, but does not accept certain remote areas.</p><p><strong>• United Kingdom</strong><br/>Delivery Area: Covers the entire UK mainland, but does not accept military areas, and remote areas such as Jersey/Guernsey/Isle of Man.</p><p><strong>• France</strong><br/>Delivery Area: Covers the entire French mainland, restricted to 5-digit numerical ZIP codes.<br/>However, we do not accept PO Box addresses, overseas territories and military bases, French island areas with ZIP codes starting with 00, 97, 98, or addresses containing ARMEE/CEDEX.</p><p><strong>• Germany</strong><br/>Delivery Area: Covers the entire German mainland, but does not accept certain remote areas.</p><p><strong>• Italy</strong><br/>Delivery Area: Covers the entire Italian mainland, but does not accept certain remote areas.</p><p><strong>• Spain</strong><br/>Delivery Area: Covers the entire Spanish mainland, but does not accept certain remote areas.</p><p><strong>• Japan</strong><br/>Delivery Area: Covers the entire Japanese mainland, but does not accept remote areas such as Okinawa Prefecture.</p><p>*Please stay tuned for other countries. You can also contact us by email: 📧 <a href=\"mailto:Sale@trlab.com\" target=\"_blank\" title=\"mailto:Sale@trlab.com\">Sale@trlab.com</a> to find out if there are any of our stockists or other ways to purchase in your area.</p><h3>Shipping Fees</h3><p><strong>• United States, Canada, United Kingdom, France, Germany, Italy, Spain, Japan</strong><br/>Under 300g: $5.99 (≈£4.56 ≈€5.18)<br/>Over 300g: $9.99 (≈£7.60 ≈€8.64)<br/><em>*The actual amount charged will be calculated based on the real-time exchange rate displayed by the system on that day.</em></p><p>For orders containing multiple items within the same weight range, only one shipping fee for that weight range will be charged. If an order includes items from different weight ranges, the shipping fees will be added together ($5.99 + $9.99).</p><p><em>🚚 Free Worldwide Shipping on 3+ ITEMS</em></p><p><strong>*Protective Shipping & Service (Oversized)</strong>: <br/>To ensure some oversized items arrives safely, we utilize specialized protective packaging. This includes full breakage service: In the unlikely event your item arrives damaged, we will replace it immediately at no extra cost to you. An additional $12.99 fee will be charged on the service.</p><h3>Split Shipments</h3><p>To comply with the import regulations of various countries' customs, we may split your order into packages with different shipment ID.<br/>We will do our best to arrange for these shipments and packages to arrive around the same date. Please monitor the package information in your account and wait patiently.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_bmTUGq"
+      ],
+      "custom_css": [],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "left",
+        "narrow_column": false,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_zQcEwa",
+    "rich_text_3JEYri"
+  ]
+}

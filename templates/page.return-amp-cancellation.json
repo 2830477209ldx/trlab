@@ -1,0 +1,83 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "slideshow_zQcEwa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_iUmi3G": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/difference-02.jpg",
+            "image_mobile": "shopify://shop_images/difference-02.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_iUmi3G"
+      ],
+      "disabled": true,
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_3JEYri": {
+      "type": "rich-text",
+      "blocks": {
+        "text_bmTUGq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h3>Return & Cancellation Policy</h3><p>TRLab takes pride in the artisanal and handcrafted nature of our production. To maintain the quality and integrity of our small-batch collections, all sales are final. <strong>We do not offer returns for refunds.</strong> However, we would be pleased to arrange <strong>an exchange strictly if your item is defective, damaged, or if you received the wrong item.</strong> You may also cancel your order for a full refund or modify your order details within<strong> 24 hours</strong> of purchase.</p><p>To start a return or request a change, please contact us at <a href=\"mailto:Sale@trlab.com\" title=\"mailto:Sale@trlab.com\">Sale@trlab.com</a>.</p><p>You can always contact us for any return-related questions at <a href=\"mailto:Sale@trlab.com\" title=\"mailto:Sale@trlab.com\">Sale@trlab.com</a>.</p><h3>1.Order Cancellations (24-Hour Window)</h3><p><strong>· </strong>You have <strong>24 hours</strong> from the moment you place your order to request a cancellation, or to update your order information (e.g., shipping address, item selection).<br/><strong>· </strong>The order enters our production or shipping queue and is considered confirmed; we cannot accept cancellations, changes to order details, or offer refunds after this window.</p><h3>2.Exchanges for Defects & Damages</h3><p>We strictly only offer exchanges for items that are defective, damaged, or incorrect. We do not accept returns for \"change of mind\" or incorrect model selection (e.g., ordering the wrong phone case size).</p><p><strong>The Process:</strong></p><p><strong>· Report Issue (7 Days):</strong> Please inspect your order upon arrival. You must email <a href=\"mailto:Sale@trlab.com\" title=\"mailto:Sale@trlab.com\">Sale@trlab.com</a> within 7 days of delivery with your receipt/proof of purchase and photos of the issue.<br/><strong>· Authorization: </strong>Items sent back without prior authorization will not be accepted. If approved, we will provide a return shipping label or instructions.<br/><strong>· </strong>All returned items must be in original, unused condition with tags and packaging.</p><p><strong>Exchange Resolution:</strong></p><p><strong>· Direct Exchange: </strong>We prioritize exchanging the defective item for the same product.<br/>· If a direct replacement is unavailable, we may offer a similar item. If you exchange for an item of lesser value, the difference will be returned as Store Credit.<br/><strong>· Safe Return: </strong>TRLab<strong> </strong>is not responsible for damage that occurs during return shipping. We recommend repacking in the original materials to guarantee safety.</p><h3>Additional Terms & Conditions</h3><h3>1.Exclusions & Non-Returnable Items</h3><p>TRLab reserves the right to investigate all claims. We<strong> do not</strong> offer exchanges, refunds, or compensation for:</p><p><strong>· Personal Preference: </strong>Change of mind or incorrect model selection of phone cases / Laptop Cases etc.<br/><strong>· Sale Items: </strong>Sale items and Gift Cards are final sale.<br/><strong>· User-Inflicted Damage: </strong>Damage caused by misuse, abuse, failure to follow manufacturer instructions, or intentional acts.<br/><strong>· Unauthorized Repairs: </strong>Items that have been modified or repaired without our permission.<br/><strong>· External Factors: </strong>Damage from accidents, natural disasters, or power surges.</p><p><em>We will not exchange or offer store credit on items returned in what we deem to be damaged (by the user) or unsaleable condition.</em></p><h3>2.<strong>Refund Processing (When Applicable)</strong></h3><p><strong>· Internal Processing: </strong>We will inspect the return and approve the refund within 48 hours of receipt.<br/><strong>· Bank Posting: </strong>The refund will be automatically processed to your original payment method. Please allow<strong> 10 to 15 business days </strong>for your bank or credit card provider to post the funds.<br/><strong>· Late Refunds: </strong>If more than 15 business days have passed since approval, please contact us.</p><h3>3.<strong>European Union Customers (14-Day Cooling Off Period)</strong></h3><p>Notwithstanding the above policy, if merchandise is shipped into the European Union, you have the right to cancel or return your order within 14 days, for any reason and without justification. The item must be in the same condition that you received it: unworn, unused, with tags, and in its original packaging.</p><h3>4.<strong>Legal & Regulatory Information</strong></h3><p><strong>· Customs Duties & VAT: </strong>The customer is strictly responsible for all customs duties, value-added taxes (VAT), and fees in the destination country.<br/><strong>· Refusal to Pay: </strong>If a package is returned because the recipient refused to pay taxes or fees, the cost of shipping, return shipping, and administrative fees will be <strong>deducted </strong>from any refund or credit.<br/><strong>· Governing Law & Modifications:</strong> This policy is governed by the laws of<strong> [specify governing law, e.g., the state of incorporation or the country where the company operates]. </strong>TRLab reserves the right to modify this policy at any time. Any updates will be communicated to customers and will take effect immediately upon publication.<br/><strong>· Contact Us: </strong>For any questions regarding this policy, please contact our customer service team at <a href=\"mailto:Sale@trlab.com\" title=\"mailto:Sale@trlab.com\">Sale@trlab.com</a>.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_bmTUGq"
+      ],
+      "custom_css": [],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "left",
+        "narrow_column": false,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_zQcEwa",
+    "rich_text_3JEYri"
+  ]
+}

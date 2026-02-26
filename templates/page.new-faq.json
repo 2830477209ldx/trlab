@@ -1,0 +1,83 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "slideshow_zQcEwa": {
+      "type": "slideshow",
+      "blocks": {
+        "image_iUmi3G": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/difference-02.jpg",
+            "image_mobile": "shopify://shop_images/difference-02.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_iUmi3G"
+      ],
+      "disabled": true,
+      "name": "t:sections.slideshow.presets.hero_optional_slideshow.name",
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_3JEYri": {
+      "type": "rich-text",
+      "blocks": {
+        "text_bmTUGq": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h2>When will my order ship?</h2><p>We aim to ship all orders within three business days of purchase. Please note that during busier times, your order may take slightly longer to dispatch. We appreciate your patience. To check the status of your order, please email us at <a href=\"mailto:Sale@trlab.com\" title=\"mailto:Sale@trlab.com\">Sale@trlab.com</a>.</p><h2>How can I track my order?</h2><p>Please refer to your order confirmation email for tracking information. If you require further assistance, please email us at <a href=\"mailto:Sale@trlab.com\" title=\"mailto:Sale@trlab.com\">Sale@trlab.com</a>.</p><h2>Do you ship internationally?</h2><p>Yes. For more information on international shipments, please visit our <a href=\"/policies/shipping-policy\">Shipping & Returns</a> page.</p><h2>Can I collect my order in-store?</h2><p>No. Currently we do not have a physical location from which orders can be collected.</p><h2>What should I do if my order is damaged or missing?</h2><p>Please email <a href=\"mailto:Sale@trlab.com\" title=\"mailto:Sale@trlab.com\">Sale@trlab.com</a> within 48 hours of delivery. All claims for damaged items or omissions must be made within 48 hours of delivery.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_bmTUGq"
+      ],
+      "custom_css": [],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "left",
+        "narrow_column": false,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_zQcEwa",
+    "rich_text_3JEYri"
+  ]
+}
